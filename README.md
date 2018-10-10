@@ -12,6 +12,6 @@ after you replace these files, just run
 ./vcpkg install libodb-mysql
 ```
 ## BTW
-the version is 2.5.0-b9, and the odb compiler can be downloaded in ![here](https://codesynthesis.com/~boris/tmp/odb/pre-release/b.3/)
+the version is 2.5.0-b9, and the odb compiler (version 2.5.0 but not b9) can be downloaded in ![here](https://codesynthesis.com/~boris/tmp/odb/pre-release/b.3/)
 if you didn't use vcpkg, these file may not help.
 thanks!
