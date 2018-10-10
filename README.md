@@ -1,5 +1,5 @@
 ## What's this
-This is an official vcpkg portfile of ODB to someone who need to update your c++ compiler to c++17,
+This is an <b>unofficial</b> vcpkg portfile of ODB to someone who need to update your c++ compiler to c++17,
  because that, the ODB 2.4.0  will not compile with c++17 (c++14 is ok)
 
 ## How to use
